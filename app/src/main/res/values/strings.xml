@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="find_button">Find Photo</string>
+    <string name="capture_button">Capture Photo</string>
+    <string name="ID_find">Search ID...</string>
+    <string name="desc">Capture image holder</string>
+</resources>
